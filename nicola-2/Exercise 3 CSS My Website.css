@@ -1,0 +1,9 @@
+body{background-color: #3C3176;font-family: 'Frank Ruhl Libre', serif;}
+section{background-color: #867DB0;border:  dotted; border-color: white;margin-bottom: 5px;margin-top: 2px;padding: 7px;height: 300px}
+h1,h2{color: #10073B;}
+li{display: inline-block;background-color: #231858;font color: #FFF;padding: 5px;}
+header{color: white;text-align: center;background-color: black}
+footer{padding: 20px;text-align: center; background-color: darkgray}
+.logo{font-family: fantasy;font-size: 1.5em;text-align: center}
+
+img{float: right;}

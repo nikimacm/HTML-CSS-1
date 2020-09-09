@@ -1,0 +1,7 @@
+body{background-color: cornsilk}
+
+section{background-color: darksalmon}
+
+footer{background-color: burlywood;color: darkslategrey}
+
+li{list-style: none;display: inline-block; background-color: burlywood}
