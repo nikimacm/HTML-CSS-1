@@ -1,0 +1,26 @@
+body{background-color: oldlace;font-family: serif;}
+
+#wrapper{width: 80%;margin:10%}
+
+#info img,#info h1, #info h2{display: inline-block;}
+#info img{max-width: 50px;max-height: 50px;}
+#info h1{text-transform: uppercase;font-size: 2em;}
+#info h2{color: #7D1313;margin-left: 15px;font-size: 1.2em}
+
+#banner{background-image: url(forest.jpg);height: 130px;background-size: cover; position:relative;}
+#bannerText{position: absolute;bottom: 0%; background-color: cadetblue;right: 10%;padding: 15px;color: whitesmoke;border-radius: 15px 5px;font-size: 1.2em}
+
+nav{text-transform: uppercase; display: inline-block;width: 100%;text-align: right;background-color: darkslategrey}
+nav ul{list-style-type: none;}
+nav li{display: inline-block}
+nav a{text-decoration: none;padding: 5px;font-size: 1.5em;border-bottom: 1px dotted white;color: white;}
+nav a:hover{color: aqua;border-bottom: 3px solid blue;}
+
+
+section article,section aside{display: inline-block;}
+section article{width: 66%}
+section aside{width: 33%;}
+
+
+footer{clear: both;background color: cadetblue;}
+footer div{display: inline-block;width: 33%;vertical-align: top;}
